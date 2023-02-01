@@ -20,5 +20,6 @@
 [简单理解污点分析技术](https://www.k0rz3n.com/2019/03/01/%E7%AE%80%E5%8D%95%E7%90%86%E8%A7%A3%E6%B1%A1%E7%82%B9%E5%88%86%E6%9E%90%E6%8A%80%E6%9C%AF/)
 
 # 其他
-[AddressSanitizer](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf) [](https://www.semanticscholar.org/paper/AddressSanitizer%3A-A-Fast-Address-Sanity-Checker-Serebryany-Bruening/29146d2b80bc8c56f7e18efe8d2c92354254e947)
+[AddressSanitizer](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf) [网页](https://www.semanticscholar.org/paper/AddressSanitizer%3A-A-Fast-Address-Sanity-Checker-Serebryany-Bruening/29146d2b80bc8c56f7e18efe8d2c92354254e947) [slide](https://s4plus.ustc.edu.cn/_upload/article/files/90/bc/3d9081df4e2daf7dc08dc0a7ac9e/6389bbdd-455d-4265-b3e4-f5f826637896.pptx)
+
 [论文推荐（一）- memory error & program analysis](https://zhuanlan.zhihu.com/p/32448404)
