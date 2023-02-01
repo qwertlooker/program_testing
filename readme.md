@@ -22,4 +22,6 @@
 # 其他
 [AddressSanitizer](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf) [网页](https://www.semanticscholar.org/paper/AddressSanitizer%3A-A-Fast-Address-Sanity-Checker-Serebryany-Bruening/29146d2b80bc8c56f7e18efe8d2c92354254e947) [slide](https://s4plus.ustc.edu.cn/_upload/article/files/90/bc/3d9081df4e2daf7dc08dc0a7ac9e/6389bbdd-455d-4265-b3e4-f5f826637896.pptx)
 
+[MemorySanitizer](https://www.semanticscholar.org/paper/MemorySanitizer%3A-Fast-detector-of-uninitialized-use-Stepanov-Serebryany/c26141c2d58e495c64134dfe389ffa23877b412f) [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7054186&tag=1)
+
 [论文推荐（一）- memory error & program analysis](https://zhuanlan.zhihu.com/p/32448404)
